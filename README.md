@@ -1,5 +1,6 @@
 # Hangman-Game
     I have created a traditional hangman game ın Python
+    The game has 5k words have fun!
 ## Lives
     You have just 6 lives. So you should be careful with guessing ;)
     The game tracking your live of games
